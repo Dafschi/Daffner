@@ -5,7 +5,7 @@ Já tive contato com fotografia, criação de identidade visual, edição de ima
 
 Gosto da parte criativa dos projetos, de pensar em como transmitir uma ideia visualmente e de experimentar coisas novas. Ainda estou aprendendo e aprimorando minhas habilidades, mas procuro aproveitar cada atividade do curso para ganhar experiência e descobrir novas possibilidades na área.
 
-#🛠️ O que venho aprendendo#
+# 🛠️ O que venho aprendendo
 
 Fotografia e composição de imagens
 
