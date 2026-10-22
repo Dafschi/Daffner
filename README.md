@@ -17,11 +17,11 @@ Edição de vídeos e produção audiovisual
 
 Noções de marketing digital
 
-🎨 Meus projetos
+# 🎨 Meus projetos
 
 Neste portfólio, compartilho alguns dos trabalhos que desenvolvi durante o curso, incluindo projetos de identidade visual, fotografia e edição de vídeo. Cada atividade tem sido uma oportunidade de colocar em prática o que aprendi e melhorar minhas habilidades.
 
-🌱 Próximos passos
+# 🌱 Próximos passos
 
 Quero continuar aprendendo, experimentar novas ferramentas e desenvolver projetos que representem meu estilo e minha evolução na área de Multimídia.
 
